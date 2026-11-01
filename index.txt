@@ -1,1 +1,2 @@
 This is our first GIT Class Batch 32
+Adding  my second line in text file
